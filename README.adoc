@@ -1,0 +1,10 @@
+= Packer使ってごにょりたい
+
+1. osを選択する
+1. git submodule addする
+
+
+.例：debian
+----
+$ git submodule add https://github.com/boxcutter/debian.git
+----
