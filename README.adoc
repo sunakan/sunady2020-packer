@@ -16,3 +16,14 @@ $ make update-gitsubmodules
 or
 $ git submodule update --remote
 ----
+
+== iso_urlを変更する時(debian)
+
+link:ftp://ftp.kddilabs.jp/Linux/packages/Debian/debian-cd/10.3.0/amd64/iso-cd/[]
+
+を利用する時
+
+* iso_checksum
+** SHA512UMSをwgetして該当コピー
+* iso_name
+* iso_url
